@@ -8,3 +8,8 @@ git add
 git commit -m ""
 git log
 Git diff <filename>
+
+
+--------------------------------------
+
+TEST DIAGRAM the one that Anil has in his lecture (is not copied here)
